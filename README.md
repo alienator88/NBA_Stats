@@ -1,4 +1,3 @@
-# Equity-Dashboard
+# NBA Stats
 
-https://alienator88.github.io/Equity-Dashboard/
 
