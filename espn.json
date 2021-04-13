@@ -1,0 +1,527 @@
+{
+    "team": {
+        "id": "26",
+        "uid": "s:40~l:46~t:26",
+        "slug": "utah-jazz",
+        "location": "Utah",
+        "name": "Jazz",
+        "abbreviation": "UTAH",
+        "displayName": "Utah Jazz",
+        "shortDisplayName": "Jazz",
+        "color": "06143F",
+        "alternateColor": "f9a01b",
+        "isActive": true,
+        "logos": [{
+            "href": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+            "width": 500,
+            "height": 500,
+            "alt": "",
+            "rel": ["full", "default"]
+        }, {
+            "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/utah.png",
+            "width": 500,
+            "height": 500,
+            "alt": "",
+            "rel": ["full", "dark"]
+        }, {
+            "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
+            "width": 500,
+            "height": 500,
+            "alt": "",
+            "rel": ["full", "scoreboard"]
+        }, {
+            "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/utah.png",
+            "width": 500,
+            "height": 500,
+            "alt": "",
+            "rel": ["full", "scoreboard", "dark"]
+        }],
+        "record": {
+            "items": [{
+                "description": "Overall Record",
+                "type": "total",
+                "summary": "22-5",
+                "stats": [{
+                    "name": "playoffSeed",
+                    "value": 1.0
+                }, {
+                    "name": "wins",
+                    "value": 22.0
+                }, {
+                    "name": "losses",
+                    "value": 5.0
+                }, {
+                    "name": "winPercent",
+                    "value": 0.8148148059844971
+                }, {
+                    "name": "gamesBehind",
+                    "value": 0.0
+                }, {
+                    "name": "ties",
+                    "value": 0.0
+                }, {
+                    "name": "OTWins",
+                    "value": 0.0
+                }, {
+                    "name": "OTLosses",
+                    "value": 0.0
+                }, {
+                    "name": "gamesPlayed",
+                    "value": 27.0
+                }, {
+                    "name": "pointsFor",
+                    "value": 3105.0
+                }, {
+                    "name": "pointsAgainst",
+                    "value": 2854.0
+                }, {
+                    "name": "avgPointsFor",
+                    "value": 115.0
+                }, {
+                    "name": "avgPointsAgainst",
+                    "value": 105.70370483398438
+                }, {
+                    "name": "points",
+                    "value": 8.5
+                }, {
+                    "name": "differential",
+                    "value": 9.299999999999997
+                }, {
+                    "name": "streak",
+                    "value": 7.0
+                }, {
+                    "name": "divisionWinPercent",
+                    "value": 0.6000000238418579
+                }, {
+                    "name": "leagueWinPercent",
+                    "value": 0.7692307829856873
+                }]
+            }, {
+                "description": "Home Record",
+                "type": "home",
+                "summary": "12-2",
+                "stats": [{
+                    "name": "wins",
+                    "value": 12.0
+                }, {
+                    "name": "losses",
+                    "value": 2.0
+                }, {
+                    "name": "ties",
+                    "value": 0.0
+                }, {
+                    "name": "winPercent",
+                    "value": 0.8571428656578064
+                }, {
+                    "name": "OTLosses",
+                    "value": 0.0
+                }]
+            }, {
+                "description": "Away Record",
+                "type": "road",
+                "summary": "10-3",
+                "stats": [{
+                    "name": "wins",
+                    "value": 10.0
+                }, {
+                    "name": "losses",
+                    "value": 3.0
+                }, {
+                    "name": "ties",
+                    "value": 0.0
+                }, {
+                    "name": "winPercent",
+                    "value": 0.7692307829856873
+                }, {
+                    "name": "OTLosses",
+                    "value": 0.0
+                }]
+            }]
+        },
+        "groups": {
+            "id": "11",
+            "parent": {
+                "id": "6"
+            },
+            "isConference": false
+        },
+        "links": [{
+            "language": "en-US",
+            "rel": ["clubhouse", "desktop", "team"],
+            "href": "https://www.espn.com/nba/team/_/name/utah/utah-jazz",
+            "text": "Clubhouse",
+            "shortText": "Clubhouse",
+            "isExternal": false,
+            "isPremium": false
+        }, {
+            "language": "en-US",
+            "rel": ["roster", "desktop", "team"],
+            "href": "http://www.espn.com/nba/team/roster/_/name/utah/utah-jazz",
+            "text": "Roster",
+            "shortText": "Roster",
+            "isExternal": false,
+            "isPremium": false
+        }, {
+            "language": "en-US",
+            "rel": ["stats", "desktop", "team"],
+            "href": "http://www.espn.com/nba/team/stats/_/name/utah/utah-jazz",
+            "text": "Statistics",
+            "shortText": "Statistics",
+            "isExternal": false,
+            "isPremium": false
+        }, {
+            "language": "en-US",
+            "rel": ["schedule", "desktop", "team"],
+            "href": "https://www.espn.com/nba/team/schedule/_/name/utah",
+            "text": "Schedule",
+            "shortText": "Schedule",
+            "isExternal": false,
+            "isPremium": false
+        }, {
+            "language": "en-US",
+            "rel": ["photos", "desktop", "team"],
+            "href": "https://www.espn.com/nba/team/photos/_/name/utah",
+            "text": "photos",
+            "shortText": "photos",
+            "isExternal": false,
+            "isPremium": false
+        }, {
+            "language": "en-US",
+            "rel": ["scores", "sportscenter", "app", "team"],
+            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:46~t:26&section=scores",
+            "text": "Scores",
+            "shortText": "Scores",
+            "isExternal": false,
+            "isPremium": false
+        }, {
+            "language": "en-US",
+            "rel": ["draftpicks", "desktop", "team"],
+            "href": "http://www.espn.com/nba/draft/teams/_/name/utah/utah-jazz",
+            "text": "Draft Picks",
+            "shortText": "Draft Picks",
+            "isExternal": false,
+            "isPremium": true
+        }, {
+            "language": "en-US",
+            "rel": ["transactions", "desktop", "team"],
+            "href": "http://www.espn.com/nba/team/transactions/_/name/utah",
+            "text": "Transactions",
+            "shortText": "Transactions",
+            "isExternal": false,
+            "isPremium": false
+        }, {
+            "language": "en-US",
+            "rel": ["injuries", "desktop", "team"],
+            "href": "https://www.espn.com/nba/team/injuries/_/name/utah",
+            "text": "Injuries",
+            "shortText": "Injuries",
+            "isExternal": false,
+            "isPremium": false
+        }, {
+            "language": "en-US",
+            "rel": ["depthchart", "desktop", "team"],
+            "href": "https://www.espn.com/nba/team/depth/_/name/utah",
+            "text": "Depth Chart",
+            "shortText": "Depth Chart",
+            "isExternal": false,
+            "isPremium": false
+        }],
+        "nextEvent": [{
+            "id": "401267583",
+            "date": "2021-02-16T02:00Z",
+            "name": "Philadelphia 76ers at Utah Jazz",
+            "shortName": "PHI @ UTAH",
+            "season": {
+                "year": 2021,
+                "displayName": "2020-21"
+            },
+            "seasonType": {
+                "id": "2",
+                "type": 2,
+                "name": "Regular Season",
+                "abbreviation": "reg"
+            },
+            "timeValid": true,
+            "competitions": [{
+                "id": "401267583",
+                "date": "2021-02-16T02:00Z",
+                "attendance": 0,
+                "type": {
+                    "id": "1",
+                    "text": "Standard",
+                    "abbreviation": "STD"
+                },
+                "timeValid": true,
+                "neutralSite": false,
+                "boxscoreAvailable": false,
+                "ticketsAvailable": true,
+                "venue": {
+                    "fullName": "Vivint Smart Home Arena",
+                    "address": {
+                        "city": "Salt Lake City",
+                        "state": "UT"
+                    }
+                },
+                "competitors": [{
+                    "id": "26",
+                    "type": "team",
+                    "order": 0,
+                    "homeAway": "home",
+                    "team": {
+                        "id": "26",
+                        "location": "Utah",
+                        "abbreviation": "UTAH",
+                        "displayName": "Utah Jazz",
+                        "shortDisplayName": "Jazz",
+                        "logos": [{
+                            "href": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
+                            "width": 500,
+                            "height": 500,
+                            "alt": "",
+                            "rel": ["full", "default"]
+                        }, {
+                            "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/utah.png",
+                            "width": 500,
+                            "height": 500,
+                            "alt": "",
+                            "rel": ["full", "dark"]
+                        }, {
+                            "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
+                            "width": 500,
+                            "height": 500,
+                            "alt": "",
+                            "rel": ["full", "scoreboard"]
+                        }, {
+                            "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/utah.png",
+                            "width": 500,
+                            "height": 500,
+                            "alt": "",
+                            "rel": ["full", "scoreboard", "dark"]
+                        }],
+                        "links": [{
+                            "rel": ["clubhouse", "desktop", "team"],
+                            "href": "https://www.espn.com/nba/team/_/name/utah/utah-jazz",
+                            "text": "Clubhouse"
+                        }, {
+                            "rel": ["roster", "desktop", "team"],
+                            "href": "http://www.espn.com/nba/team/roster/_/name/utah/utah-jazz",
+                            "text": "Roster"
+                        }, {
+                            "rel": ["stats", "desktop", "team"],
+                            "href": "http://www.espn.com/nba/team/stats/_/name/utah/utah-jazz",
+                            "text": "Statistics"
+                        }, {
+                            "rel": ["schedule", "desktop", "team"],
+                            "href": "https://www.espn.com/nba/team/schedule/_/name/utah",
+                            "text": "Schedule"
+                        }, {
+                            "rel": ["photos", "desktop", "team"],
+                            "href": "https://www.espn.com/nba/team/photos/_/name/utah",
+                            "text": "photos"
+                        }, {
+                            "rel": ["scores", "sportscenter", "app", "team"],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:46~t:26&section=scores",
+                            "text": "Scores"
+                        }, {
+                            "rel": ["draftpicks", "desktop", "team"],
+                            "href": "http://www.espn.com/nba/draft/teams/_/name/utah/utah-jazz",
+                            "text": "Draft Picks"
+                        }, {
+                            "rel": ["transactions", "desktop", "team"],
+                            "href": "http://www.espn.com/nba/team/transactions/_/name/utah",
+                            "text": "Transactions"
+                        }, {
+                            "rel": ["injuries", "desktop", "team"],
+                            "href": "https://www.espn.com/nba/team/injuries/_/name/utah",
+                            "text": "Injuries"
+                        }, {
+                            "rel": ["depthchart", "desktop", "team"],
+                            "href": "https://www.espn.com/nba/team/depth/_/name/utah",
+                            "text": "Depth Chart"
+                        }]
+                    }
+                }, {
+                    "id": "20",
+                    "type": "team",
+                    "order": 1,
+                    "homeAway": "away",
+                    "team": {
+                        "id": "20",
+                        "location": "Philadelphia",
+                        "abbreviation": "PHI",
+                        "displayName": "Philadelphia 76ers",
+                        "shortDisplayName": "76ers",
+                        "logos": [{
+                            "href": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
+                            "width": 500,
+                            "height": 500,
+                            "alt": "",
+                            "rel": ["full", "default"]
+                        }, {
+                            "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/phi.png",
+                            "width": 500,
+                            "height": 500,
+                            "alt": "",
+                            "rel": ["full", "dark"]
+                        }, {
+                            "href": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
+                            "width": 500,
+                            "height": 500,
+                            "alt": "",
+                            "rel": ["full", "scoreboard"]
+                        }, {
+                            "href": "https://a.espncdn.com/i/teamlogos/nba/500-dark/scoreboard/phi.png",
+                            "width": 500,
+                            "height": 500,
+                            "alt": "",
+                            "rel": ["full", "scoreboard", "dark"]
+                        }],
+                        "links": [{
+                            "rel": ["clubhouse", "desktop", "team"],
+                            "href": "https://www.espn.com/nba/team/_/name/phi/philadelphia-76ers",
+                            "text": "Clubhouse"
+                        }, {
+                            "rel": ["roster", "desktop", "team"],
+                            "href": "http://www.espn.com/nba/team/roster/_/name/phi/philadelphia-76ers",
+                            "text": "Roster"
+                        }, {
+                            "rel": ["stats", "desktop", "team"],
+                            "href": "http://www.espn.com/nba/team/stats/_/name/phi/philadelphia-76ers",
+                            "text": "Statistics"
+                        }, {
+                            "rel": ["schedule", "desktop", "team"],
+                            "href": "https://www.espn.com/nba/team/schedule/_/name/phi",
+                            "text": "Schedule"
+                        }, {
+                            "rel": ["photos", "desktop", "team"],
+                            "href": "https://www.espn.com/nba/team/photos/_/name/phi",
+                            "text": "photos"
+                        }, {
+                            "rel": ["scores", "sportscenter", "app", "team"],
+                            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:46~t:20&section=scores",
+                            "text": "Scores"
+                        }, {
+                            "rel": ["draftpicks", "desktop", "team"],
+                            "href": "http://www.espn.com/nba/draft/teams/_/name/phi/philadelphia-76ers",
+                            "text": "Draft Picks"
+                        }, {
+                            "rel": ["transactions", "desktop", "team"],
+                            "href": "http://www.espn.com/nba/team/transactions/_/name/phi",
+                            "text": "Transactions"
+                        }, {
+                            "rel": ["injuries", "desktop", "team"],
+                            "href": "https://www.espn.com/nba/team/injuries/_/name/phi",
+                            "text": "Injuries"
+                        }, {
+                            "rel": ["depthchart", "desktop", "team"],
+                            "href": "https://www.espn.com/nba/team/depth/_/name/phi",
+                            "text": "Depth Chart"
+                        }]
+                    }
+                }],
+                "notes": [],
+                "broadcasts": [{
+                    "type": {
+                        "id": "1",
+                        "shortName": "TV"
+                    },
+                    "market": {
+                        "id": "3",
+                        "type": "Away"
+                    },
+                    "media": {
+                        "shortName": "CSN"
+                    },
+                    "lang": "en",
+                    "region": "us"
+                }, {
+                    "type": {
+                        "id": "1",
+                        "shortName": "TV"
+                    },
+                    "market": {
+                        "id": "2",
+                        "type": "Home"
+                    },
+                    "media": {
+                        "shortName": "AT&TSN"
+                    },
+                    "lang": "en",
+                    "region": "us"
+                }],
+                "tickets": [{
+                    "id": "3548081",
+                    "summary": "Tickets as low as $70",
+                    "description": "Philadelphia 76ers at Utah Jazz (Reduced Capacity, Social Distancing)",
+                    "maxPrice": 483.0,
+                    "startingPrice": 70.0,
+                    "numberAvailable": 136,
+                    "totalPostings": 38,
+                    "links": [{
+                        "rel": ["tickets", "desktop", "event"],
+                        "href": "https://www.vividseats.com/nba-basketball/utah-jazz-tickets/jazz-2-15-3548081.html?wsUser=717"
+                    }, {
+                        "rel": ["tickets", "desktop", "venue"],
+                        "href": "https://www.vividseats.com/venues/vivint-smart-home-arena-tickets.html?wsUser=717"
+                    }]
+                }],
+                "status": {
+                    "clock": 0.0,
+                    "displayClock": "0.0",
+                    "period": 0,
+                    "type": {
+                        "id": "1",
+                        "name": "STATUS_SCHEDULED",
+                        "state": "pre",
+                        "completed": false,
+                        "description": "Scheduled",
+                        "detail": "Mon, February 15th at 9:00 PM EST",
+                        "shortDetail": "2/15 - 9:00 PM EST"
+                    }
+                }
+            }],
+            "links": [{
+                "language": "en-US",
+                "rel": ["summary", "desktop", "event"],
+                "href": "http://www.espn.com/nba/game?gameId=401267583",
+                "text": "Gamecast",
+                "shortText": "Summary",
+                "isExternal": false,
+                "isPremium": false
+            }, {
+                "language": "en-US",
+                "rel": ["summary", "sportscenter", "app", "event"],
+                "href": "sportscenter://x-callback-url/showGame?sportName=basketball&leagueAbbrev=nba&gameId=401267583",
+                "text": "Gamecast",
+                "shortText": "Summary",
+                "isExternal": false,
+                "isPremium": false
+            }, {
+                "language": "en-US",
+                "rel": ["now", "desktop", "event"],
+                "href": "https://www.espn.com/nba/game/_/gameId/401267583",
+                "text": "Now",
+                "shortText": "Now",
+                "isExternal": false,
+                "isPremium": false
+            }, {
+                "language": "en-US",
+                "rel": ["preview", "desktop", "event"],
+                "href": "http://www.espn.com/nba/preview?gameId=401267583",
+                "text": "Preview",
+                "shortText": "Preview",
+                "isExternal": false,
+                "isPremium": false
+            }, {
+                "language": "en-US",
+                "rel": ["videos", "desktop", "event"],
+                "href": "https://www.espn.com/nba/video?gameId=401267583",
+                "text": "Videos",
+                "shortText": "Videos",
+                "isExternal": false,
+                "isPremium": false
+            }]
+        }],
+        "standingSummary": "1st in Northwest Division"
+    }
+}
